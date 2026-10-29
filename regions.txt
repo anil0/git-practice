@@ -1,3 +1,4 @@
 North
 South
 East
+West
