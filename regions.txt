@@ -2,3 +2,4 @@ North
 South
 East
 West
+Wales
