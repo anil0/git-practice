@@ -1,4 +1,4 @@
-Revenue = SUM(NetAmount)
+Revenue = SUM(NetAmount) * FX
 Format = #,0
 Region filter = All
 YTD = TOTALYTD(Revenue)
