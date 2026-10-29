@@ -1,0 +1,4 @@
+Revenue = SUM(NetAmount)
+Format = #,0
+Region filter = All
+YTD = none
