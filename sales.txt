@@ -1,4 +1,4 @@
 Revenue = SUM(GrossAmount) * FX
 Format = #,0
-Region filter = All
+Region filter = UK only
 YTD = TOTALYTD(Revenue)
