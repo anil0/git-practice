@@ -1,1 +1,2 @@
 Target = 150k
+Target stretch = 200k
